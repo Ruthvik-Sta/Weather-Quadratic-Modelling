@@ -1,0 +1,12 @@
+
+Equation 1: a=1.0, b=-3.0, c=2.0
+Two real and distinct roots: 2.0, 1.0
+
+Equation 2: a=1.0, b=-2.0, c=1.0
+One real root: 1.0
+
+Equation 3: a=1.0, b=2.0, c=5.0
+Complex roots: -1.0 ± 2.0i
+
+Equation 4: a=0.0, b=4.0, c=2.0
+Not a quadratic equation (a = 0)
